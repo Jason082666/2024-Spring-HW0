@@ -3,13 +3,15 @@
 All the detailed specified in Homework 0 documentation.
 
 ## Wallet Address
-Please provide your MetaMask wallet address:
+0x52e981fCBA6cbdBE02eD7f22aF3284Cd81e38d19
 
 ## Local Testing
-Please provide a screenshot of the `forge test -vvv` command running in your local environment.
+<img width="569" alt="截圖 2024-02-22 上午11 00 50" src="https://github.com/Jason082666/2024-Spring-HW0/assets/105638495/68eb4690-e63d-4749-8e85-ac8ea896f7a6">
+
 
 ## Contract Address
-Please provide the contract address that you deployed on the Sepolia network.
+<img width="556" alt="截圖 2024-02-21 下午11 53 03" src="https://github.com/Jason082666/2024-Spring-HW0/assets/105638495/d7c20ae1-4bf5-4480-8e61-f1af2b16bbde">
+
 
 ## Sepolia Etherscan
-Paste the contract address into the Sepolia Etherscan and share the screenshot.
+<img width="1411" alt="截圖 2024-02-22 上午12 00 05" src="https://github.com/Jason082666/2024-Spring-HW0/assets/105638495/a943964f-ea9c-42ca-ba04-7595394ee2be">
